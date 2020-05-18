@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "899611249473",
+    "firebase_url": "https://nodemcu-de986.firebaseio.com",
+    "project_id": "nodemcu-de986",
+    "storage_bucket": "nodemcu-de986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899611249473:android:cf2785eba804873d54afc0",
+        "android_client_info": {
+          "package_name": "com.example.nodemcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899611249473-hfm47appkfh6h3r2skoplrrhl3gb7k87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nodemcu",
+            "certificate_hash": "c7742e6c0a8ba74ec10c302a7325d080799f8915"
+          }
+        },
+        {
+          "client_id": "899611249473-sf2vvt98v20eoabh0piei4jbc8bfcbu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWMKp7WpcHbz6wFZ1cr_xz3u3MLA316g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899611249473-sf2vvt98v20eoabh0piei4jbc8bfcbu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899611249473:android:f860b7cf7de07ae354afc0",
+        "android_client_info": {
+          "package_name": "com.example.smartagriculture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899611249473-anv523a6htr14k9trfosbm6p995fd6a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartagriculture",
+            "certificate_hash": "c7742e6c0a8ba74ec10c302a7325d080799f8915"
+          }
+        },
+        {
+          "client_id": "899611249473-sf2vvt98v20eoabh0piei4jbc8bfcbu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWMKp7WpcHbz6wFZ1cr_xz3u3MLA316g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899611249473-sf2vvt98v20eoabh0piei4jbc8bfcbu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
